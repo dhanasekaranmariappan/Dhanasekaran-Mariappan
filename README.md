@@ -19,3 +19,5 @@ actionable systems.
 ---
 
 ### 📌 Pinned Projects
+
+industrial-data-pipeline
